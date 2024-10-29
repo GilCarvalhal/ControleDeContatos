@@ -28,3 +28,4 @@ C:\Users\Gil Carvalhal\OneDrive\Desktop\code\ControleDeContatos\ControleDeContat
 C:\Users\Gil Carvalhal\OneDrive\Desktop\code\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.pdb
 C:\Users\Gil Carvalhal\OneDrive\Desktop\code\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\Gil Carvalhal\OneDrive\Desktop\code\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ref\ControleDeContatos.dll
+C:\Users\Gil Carvalhal\OneDrive\Desktop\code\ControleDeContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.sourcelink.json
